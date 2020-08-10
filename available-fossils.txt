@@ -1,7 +1,7 @@
 Acanthostega
-Amber
+Amber (x2)
 Ammonite
-Ankylo skull
+Ankylo skull (x2)
 Ankylo tail
 Ankylo torso
 Anomalocaris
@@ -13,12 +13,11 @@ Brachio chest
 Brachio pelvis
 Brachio skull
 Brachio tail
-Coprolite
 Deinony tail
 Deinony torso
 Dimetrodon skull
-Dimetrodon torso
-Dinosaur track
+Dimetrodon torso (x2)
+Dinosaur track (x2)
 Diplo chest
 Diplo neck
 Diplo pelvis
@@ -27,44 +26,18 @@ Diplo tail
 Diplo tail tip
 Dunkleosteus
 Eusthenopteron
-Iguanodon skull
+Iguanodon skull (x2)
 Iguanodon tail
 Iguanodon torso
-Juramaia
-Left megalo side
+Juramaia (x2)
 Left ptera wing
 Left quetzal wing
-Mammoth skull
+Mammoth skull (x2)
 Mammoth torso
-Megacero skull
 Megacero tail
-Megacero torso
-Ophthalmo skull
-Ophthalmo torso
-Pachysaurus skull
-Pachysaurus tail
-Pachysaur skull
-Parasaur tail
-Parasaur torso
-Plesio skull
-Plesio tail
+Parasaur skull
 Plesio torso
-Ptera body
-Quetzal torso
-Right megalo side
-Right ptera wing
-Right quetzal wing
 Sabertooth skull
-Sabertooth tail
-Spino skull
-Spino tail
-Spino torso
-Stego skull
+Spino skull (x2)
 Stego tail
-Stego torso
-T. rex skull
-T. rex tail
-T. rex torso
-Tricera skull
-Tricera tail
-Trilobite
+Trilobite (x2)
