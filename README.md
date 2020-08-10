@@ -35,9 +35,9 @@ Creator code (soon)
 
 List of residents (soon)
 
-# My lists (soon)
+# My lists
 These lists track my progress in certain areas.
-* Art donated
-* Bugs donated
-* Fish donated
+* <a href="donated-art.txt">Donated art</a>
+* Donated bugs
+* Donated fish
 * Turnips history
