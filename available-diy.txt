@@ -1,5 +1,6 @@
 Document stack
 Firewood
+Flower stand
 Garden rock
 Garden wagon
 Natural garden table
