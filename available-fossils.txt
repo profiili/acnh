@@ -5,7 +5,7 @@ Ankylo skull (x2)
 Ankylo tail
 Ankylo torso
 Anomalocaris
-Archaeopteryx
+Archaeopteryx (x2)
 Archelon skull
 Archelon tail
 Australopith
@@ -35,8 +35,11 @@ Left quetzal wing
 Mammoth skull (x2)
 Mammoth torso
 Megacero tail
+Megacero torso
 Parasaur skull
+Parasaur tail
 Plesio torso
+Right megalo side
 Sabertooth skull
 Spino skull (x2)
 Stego tail
