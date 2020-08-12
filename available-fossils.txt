@@ -14,23 +14,23 @@ Brachio pelvis
 Brachio skull
 Brachio tail
 Deinony tail
-Deinony torso
+Deinony torso (x2)
 Dimetrodon skull
 Dimetrodon torso (x2)
 Dinosaur track (x2)
 Diplo chest
 Diplo neck
-Diplo pelvis
+Diplo pelvis (x2)
 Diplo skull
 Diplo tail
 Diplo tail tip
 Dunkleosteus
 Eusthenopteron
 Iguanodon skull (x2)
-Iguanodon tail
 Iguanodon torso
 Juramaia (x2)
-Left ptera wing
+Left megalo side
+Left ptera wing (x2)
 Left quetzal wing
 Mammoth skull (x2)
 Mammoth torso
