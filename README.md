@@ -12,7 +12,7 @@ Fossils are intended for players who may be missing just one or few fossils. Sim
 # Réunion info
 The island name is a reference to the podcast Hello Internet, and is not related to any country or language I'm associated with.
 
-Stars: 4
+Stars: 5
 
 Fruit:
 * Peaches (native)
@@ -37,7 +37,17 @@ MA-3918-9407-1786
 Resident Representative:<br />
 Mangipea
 
-List of residents (soon)
+List of residents:
+* Beau
+* Chief
+* Dom
+* Eunice
+* June
+* Kyle
+* Lily
+* Lobo
+* Wendy
+* Whitney
 
 # My lists
 These lists track my progress in certain areas.
