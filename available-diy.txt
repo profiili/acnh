@@ -1,12 +1,7 @@
-Firewood
 Garden rock
-Garden wagon
-Natural garden table
-Palm-tree lamp
+Ironwood table
+Leaf
 Pot
-Rocking horse
-Shell wand (x2)
-Tiki torch
-Tree standee
+Shell wand
+Tiki torch (x2)
 Tropical vista
-Wooden bucket
