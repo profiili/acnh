@@ -5,7 +5,7 @@ This is where I store my Animal Crossing: New Horizons-related stuff, including 
 That's what you're here for, right?
 * <a href="available-diy.txt">Available DIY here</a>
 * <a href="available-fossils.txt">Available fossils here</a>
-* Available furniture
+* <a href="https://nookazon.com/profile/3183630164/listings">Available furniture</a> (Nookazon)
 
 Fossils are intended for players who may be missing just one or few fossils. Simply put: **If you don't have it, you can have it. Fossils are not for resale**.
 
