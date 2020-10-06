@@ -38,15 +38,15 @@ Resident Representative:<br />
 Mangipea
 
 List of residents:
+* Apple
 * Beau
+* Cherry
 * Chief
 * Dom
 * Eunice
-* June
 * Kyle
 * Lily
 * Lobo
-* Wendy
 * Whitney
 
 # My lists
