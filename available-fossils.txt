@@ -1,57 +1,57 @@
-Acanthostega
-Amber
-Ammonite
-Ankylo skull
-Ankylo tail (x3)
-Ankylo torso
-Anomalocaris
-Archaeopteryx (x2)
-Archelon skull (x3)
-Archelon tail
-Australopith
-Brachio chest
-Brachio pelvis
-Brachio skull
-Brachio tail (x2)
-Coprolite
-Deinony tail (x2)
-Deinony torso
-Dimetrodon skull (x2)
-Dimetrodon torso (x2)
-Dinosaur track
-Diplo chest
-Diplo neck
-Diplo pelvis
-Diplo skull
-Diplo tail
-Diplo tail tip (x3)
-Dunkleosteus
-Eusthenopteron (x2)
-Iguanodon skull
-Iguanodon tail (x3)
-Iguanodon torso
-Juramaia (x2)
-Left ptera wing
-Left quetzal wing
-Mammoth skull
-Mammoth torso
-Megacero tail
-Megacero torso
-Myllokunmingia
-Pachysaurus skull
-Parasaur skull (x3)
-Parasaur tail
-Parasaur torso
-Plesio torso (x4)
-Quetzal torso
-Right megalo side
-Sabertooth skull
-Spino skull
-Spino tail
-Spino torso
-Stego skull
-Stego tail (x2)
-Tricera skull
-Tricera tail
-Tricera torso
-Trilobite (x2)
+1x Acanthostega
+1x Amber
+1x Ammonite
+1x Ankylo skull
+3x Ankylo tail
+1x Ankylo torso
+1x Anomalocaris
+2x Archaeopteryx
+3x Archelon skull
+1x Archelon tail
+1x Australopith
+1x Brachio chest
+1x Brachio pelvis
+1x Brachio skull
+2x Brachio tail
+1x Coprolite
+2x Deinony tail
+1x Deinony torso
+2x Dimetrodon skull
+2x Dimetrodon torso
+1x Dinosaur track
+1x Diplo chest
+1x Diplo neck
+1x Diplo pelvis
+1x Diplo skull
+1x Diplo tail
+3x Diplo tail tip
+1x Dunkleosteus
+2x Eusthenopteron
+1x Iguanodon skull
+3x Iguanodon tail
+1x Iguanodon torso
+2x Juramaia
+1x Left ptera wing
+1x Left quetzal wing
+1x Mammoth skull
+1x Mammoth torso
+1x Megacero tail
+1x Megacero torso
+1x Myllokunmingia
+1x Pachysaurus skull
+3x Parasaur skull
+1x Parasaur tail
+1x Parasaur torso
+4x Plesio torso
+1x Quetzal torso
+1x Right megalo side
+1x Sabertooth skull
+1x Spino skull
+1x Spino tail
+1x Spino torso
+1x Stego skull
+2x Stego tail
+1x Tricera skull
+1x Tricera tail
+1x Tricera torso
+2x Trilobite
