@@ -6,11 +6,11 @@
 1x Ankylo torso
 1x Anomalocaris
 2x Archaeopteryx
-3x Archelon skull
+4x Archelon skull
 1x Archelon tail
 1x Australopith
 1x Brachio chest
-1x Brachio pelvis
+2x Brachio pelvis
 1x Brachio skull
 2x Brachio tail
 1x Coprolite
@@ -35,9 +35,11 @@
 1x Left quetzal wing
 1x Mammoth skull
 1x Mammoth torso
+1x Megacero skull
 1x Megacero tail
 1x Megacero torso
-1x Myllokunmingia
+2x Myllokunmingia
+1x Ophthalmo torso
 1x Pachysaurus skull
 3x Parasaur skull
 1x Parasaur tail
@@ -46,6 +48,7 @@
 1x Quetzal torso
 1x Right megalo side
 1x Sabertooth skull
+1x Sabertooth tail
 1x Spino skull
 1x Spino tail
 1x Spino torso

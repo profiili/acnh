@@ -12,7 +12,7 @@
 1x Leaf
 1x Log decorative shelves
 1x Mossy garden rock
-1x Orange rug
+2x Orange rug
 1x Orange wall-mounted clock
 1x Pansy table
 1x Paw-print doorplate
@@ -22,6 +22,7 @@
 1x Sandy-beach flooring
 1x Sauna heater
 1x Shell partition
+1x Shell stool
 1x Shell wand
 2x Stack of books
 1x Tall lantern
