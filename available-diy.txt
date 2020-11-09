@@ -1,9 +1,12 @@
 2x Bamboo flooring
 1x Bamboo stopblock
+1x Barrel
+1x Bonfire
 1x Cabin wall
 1x Cherry hat
 1x Classic pitcher
 1x Firewood
+1x Fossil doorplate
 1x Garden rock
 1x Golden arowana model
 1x Gong
@@ -11,19 +14,21 @@
 1x Kettlebell
 1x Leaf
 1x Log decorative shelves
-1x Mossy garden rock
+2x Mossy garden rock
 2x Orange rug
 1x Orange wall-mounted clock
 1x Pansy table
 1x Paw-print doorplate
 1x Peach umbrella
-1x Pear bed
+2x Pear bed
+1x Pear wardrobe
 1x Pot
 1x Sandy-beach flooring
 1x Sauna heater
 1x Shell partition
 1x Shell stool
 1x Shell wand
+1x Spooky standing lamp
 2x Stack of books
 1x Tall lantern
 2x Tea table
