@@ -35,14 +35,14 @@ Creator code:<br />
 MA-3918-9407-1786
 
 List of residents:
-* Apple
 * Beau
-* Cherry
 * Chief
 * Dom
 * Eunice
 * Kyle
 * Lobo
+* Pashmina
+* Skye
 * Tammi
 * Whitney
 
