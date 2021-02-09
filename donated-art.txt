@@ -1,19 +1,24 @@
-Amazing painting
-Beautiful statue
-Calm painting
-Common painting
-Dynamic painting
-Famous painting
-Flowery painting
-Gallant statue
-Glowing painting
-Informative statue
-Jolly painting
-Mystic statue
-Nice painting
-Scary painting
-Serene painting
-Twinkling painting
-Warm painting
-Warrior statue
-Wild painting right half
+Ancient Statue
+Amazing Painting
+Beautiful Statue
+Calm Painting
+Common Painting
+Dynamic Painting
+Famous Painting
+Flowery Painting
+Gallant Statue
+Glowing Painting
+Informative Statue
+Jolly Painting
+Mystic Statue
+Nice Painting
+Quaint Painting
+Scary Painting
+Serene Painting
+Tremendous Statue
+Twinkling Painting
+Warm Painting
+Warrior Statue
+Wild Painting Left Half
+Wild Painting Right Half
+Wistful Painting
