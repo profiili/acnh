@@ -13,6 +13,7 @@ Jolly Painting
 Mystic Statue
 Nice Painting
 Quaint Painting
+Robust Statue
 Scary Painting
 Serene Painting
 Tremendous Statue
