@@ -1,27 +1,43 @@
-Academic Painting
-Ancient Statue
-Amazing Painting
-Basic Painting
-Beautiful Statue
-Calm Painting
-Common Painting
-Dynamic Painting
-Famous Painting
-Flowery Painting
-Gallant Statue
-Glowing Painting
-Informative Statue
-Jolly Painting
-Mystic Statue
-Nice Painting
-Quaint Painting
-Robust Statue
-Scary Painting
-Serene Painting
-Tremendous Statue
-Twinkling Painting
-Warm Painting
-Warrior Statue
-Wild Painting Left Half
-Wild Painting Right Half
-Wistful Painting
+(x) Academic Painting
+( ) Amazing Painting
+(x) Ancient Statue
+(x) Amazing Painting
+(x) Basic Painting
+(x) Beautiful Statue
+(x) Calm Painting
+(x) Common Painting
+( ) Detailed Painting
+(x) Dynamic Painting
+( ) Familiar Statue
+(x) Famous Painting
+(x) Flowery Painting
+(x) Gallant Statue
+(x) Glowing Painting
+( ) Graceful Painting
+( ) Great Statue
+(x) Informative Statue
+(x) Jolly Painting
+( ) Moody Painting
+( ) Motherly Statue
+( ) Moving Painting
+( ) Mysterious Painting
+(x) Mystic Statue
+(x) Nice Painting
+( ) Perfect Painting
+( ) Proper Painting
+(x) Quaint Painting
+(x) Robust Statue
+( ) Rock-Head Statue
+(x) Scary Painting
+( ) Scenic Painting
+(x) Serene Painting
+( ) Sinking Painting
+( ) Solemn Painting
+(x) Tremendous Statue
+(x) Twinkling Painting
+(x) Warm Painting
+(x) Warrior Statue
+(x) Wild Painting Left Half
+(x) Wild Painting Right Half
+(x) Wistful Painting
+( ) Worthy Painting
